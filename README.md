@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @moelazhari student in 1337 (42network) i have 1 year experience in c
+- 👀 I’m interested in web 3.0 and blockchain
+- 🌱 I’m currently learning web development(javascript)
+- 📫 How to reach me mohamedazhari040302@gmail.com or @drii_nadii in twitter
