@@ -4,6 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moelazhari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @moelazhari student in 1337 (42network)
-- 👀 I’m interested in web 3.0 and blockchain
-- 🌱 I’m currently learning web development(javascript)
-- 📫 How to reach me mohamedazhari040302@gmail.com or @drii_nadii in twitter
